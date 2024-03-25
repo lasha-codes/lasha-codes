@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/XPRG-4ujVMIAAAAM/cat-work-in-progress.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
 </div>
 
 ###
