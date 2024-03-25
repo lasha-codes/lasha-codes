@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lasha and I'm a dedicated full-stack from Georgia.</h2>
+<h2 align="left">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
 
 ###
 
