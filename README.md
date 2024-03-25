@@ -71,6 +71,7 @@
 
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
+  <img height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzk3d3B3aHd1a3hkdnViZHIxNzIwbDJhYmQ0dDFyenExNXk0aThxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.webp" />
 </div>
 
 ###
