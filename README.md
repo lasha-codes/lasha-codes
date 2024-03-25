@@ -1,3 +1,7 @@
+<h2 align="left">Hi 👋! My name is Lasha and I'm a dedicated full-stack from Georgia.</h2>
+
+###
+
 <p align="left">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.<br><br>🧠Currently learning: mySql, postgreSql, git.<br><br>⚡Fun Fact: Ur brain eat's itself.<br><br>🏢 My activites: studying whenever i can.</p>
 
 ###
@@ -15,7 +19,11 @@
 </div>
 
 ###
+
 <h1 align="center">Tech Stack 💻</h1>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -46,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -55,7 +65,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lasha-codes/lasha-codes/output/snake.svg" alt="Snake animation" />
 
 ###
 
