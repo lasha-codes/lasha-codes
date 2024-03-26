@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
+<h2 align="center">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
 
 ###
 
-<p align="left">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.<br><br>🧠Currently learning: mySql, postgreSql, git.<br><br>⚡Fun Fact: Ur brain eat's itself.<br><br>🏢 My activites: studying whenever i can.</p>
+<p align="center">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.<br><br>🧠Currently learning: mySql, postgreSql, git.<br><br>⚡Fun Fact: Ur brain eat's itself.<br><br>🏢 My activites: studying whenever i can.</p>
 
 ###
 
