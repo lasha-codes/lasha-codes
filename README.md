@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasha-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lasha-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
+  <img height="150" src="https://profile-readme-generator.com/assets/snake.svg"  />
   <img height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzk3d3B3aHd1a3hkdnViZHIxNzIwbDJhYmQ0dDFyenExNXk0aThxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.webp" />
 </div>
 
