@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.<br><br>🧠Currently learning: mySql, postgreSql, git.<br><br>⚡Fun Fact: Ur brain eat's itself.<br><br>🏢 My activites: studying whenever i can.</p>
+<p align="center">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.</p>
 
 ###
 
