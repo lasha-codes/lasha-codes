@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.ejable.com/wp-content/uploads/2022/04/Framer-Motion.webp" width="40"  />
+  <img src="file:///C:/Users/GSSHOP.GE/Downloads/70574400-9e6a-11e9-8708-22d4bf4c3322__2_-removebg-preview.png" width="40"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
