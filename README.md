@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVld3Q5MG92Z3ZnbmExZ2FxeWQ5bW4xejlpam9lNHMyaXNzNmxkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif"  />
+<img src="https://i.gifer.com/origin/90/9076b07b6ae81d55d18cad0cfd2c1cf0_w200.webp"  />
 
 <h2 align="center">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
 
