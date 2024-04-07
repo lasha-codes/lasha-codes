@@ -12,7 +12,7 @@
  <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
  <br/>
 
- <div  style="display: flex; align-items: center;">
+ <div>
   
  - 🌱 I’m currently learning: **Redux, Sql**
 
@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact: **Ur brain eat's itself**
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqazk3Z2o4MXhtZWdqYnYwcWd0ZXhkdGFubXFleDN3ZzhsbTdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" height="250" />
  </div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqazk3Z2o4MXhtZWdqYnYwcWd0ZXhkdGFubXFleDN3ZzhsbTdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" height="250" />
 
 ###
 
