@@ -75,11 +75,11 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasha-codes&theme=blueberry" height="210" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasha-codes&theme=radical" height="210" alt="stats graph"  />
   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
