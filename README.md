@@ -9,7 +9,7 @@
 ###
 ###
 
- <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
+ <img align="left" src="https://visitcount.itsvg.in/api?id=lasha-codes&label=Profile%20Views&color=0&icon=0&pretty=true" />
  <br/>
 
  <div>
