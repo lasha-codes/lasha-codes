@@ -4,13 +4,13 @@
 
 ###
 
- <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
- <br/>
-
 <p align="center">📃 I am a self-taught full-stack developer with one year of experience. Based in Georgia, I dedicate a whole day to studying and staying updated with the latest developments in web development and technology. My passion for coding drives me to continuously improve and expand my knowledge in the field.</p>
 
 ###
 ###
+
+ <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
+ <br/>
  
  - 🌱 I’m currently learning: **Redux, Sql**
 
