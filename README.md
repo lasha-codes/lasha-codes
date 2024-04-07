@@ -24,6 +24,8 @@
 
 ###
 
+<img width="100%" height="15" />
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -64,7 +66,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
 </div>
 
-
+<img width="100%" height="15" />
 
 ###
 
