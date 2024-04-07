@@ -9,13 +9,17 @@
 ###
 ###
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasha-codes&theme=radical" height="210" alt="stats graph"  />
-  <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="170" alt="languages graph"  />
-</div>
+<img align="right" alt="Coding" width="300" src="https://eportfolio.utm.my/
+artefact/file/download.php?file=963595&view=185127">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lasha-codes&
+label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
+
+- 🌱 I’m currently learning: **Full-stack Development**
+
+- 📫 How to reach me: **chxartishvililazare@gmail.com**
+
+- ⚡ Fun fact: **The first programmer was the daughter of a mad poet**
 
 ###
 
@@ -67,7 +71,13 @@
 
 ###
 
-<div align="left">
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasha-codes&theme=radical" height="210" alt="stats graph"  />
+  <img width="12" />
+  <img src="https://streak-stats.demolab.com?user=lasha-codes&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasha-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
