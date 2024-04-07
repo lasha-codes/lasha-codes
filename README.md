@@ -12,7 +12,7 @@
  <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
  <br/>
 
- <div align="center">
+ <div  style="display: flex; align-items: center;">
   
  - 🌱 I’m currently learning: **Redux, Sql**
 
