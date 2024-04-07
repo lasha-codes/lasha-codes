@@ -11,12 +11,17 @@
 
  <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
  <br/>
- 
+
+ <div>
+  
  - 🌱 I’m currently learning: **Redux, Sql**
 
 - 📫 How to reach me: **lashagiorgi420@gmail.com**
 
 - ⚡ Fun fact: **Ur brain eat's itself**
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqazk3Z2o4MXhtZWdqYnYwcWd0ZXhkdGFubXFleDN3ZzhsbTdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" height="250" />
+ </div>
 
 ###
 
