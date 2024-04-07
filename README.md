@@ -12,7 +12,7 @@
  <img align="left" src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" />
  <br/>
 
- <div>
+ <div align="center">
   
  - 🌱 I’m currently learning: **Redux, Sql**
 
