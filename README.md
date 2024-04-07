@@ -9,11 +9,9 @@
 ###
 ###
 
-<img align="right" alt="Coding" width="300" src="https://eportfolio.utm.my/
-artefact/file/download.php?file=963595&view=185127">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXMzNHlsd2gxeHR3NHhvaGJoY3AxaGRqaWg0dnRveG02MmdiNHMyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lasha-codes&
-label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" /> </p>
 
 - 🌱 I’m currently learning: **Redux, Sql**
 
