@@ -9,7 +9,7 @@
 ###
 ###
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXMzNHlsd2gxeHR3NHhvaGJoY3AxaGRqaWg0dnRveG02MmdiNHMyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=790b761151yz3kl3w21gl6ydx63nq9ddmma1utu6fqkf1whu&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasha-codes&abbreviated=true" /> </p>
 
