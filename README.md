@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Tech Stack 💻</h1>
+<h1 align="center">Lenguages and Tools</h1>
 
 ###
 
