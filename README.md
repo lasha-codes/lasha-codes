@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtZnBkNG1sMjJwNzkxcTdvZmxxdWV6eWJqMGg3ZHpheWZ3cmFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZtZnBkNG1sMjJwNzkxcTdvZmxxdWV6eWJqMGg3ZHpheWZ3cmFuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.gif" width="100%" />
 
 <h2 align="center">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
 
