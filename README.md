@@ -15,11 +15,11 @@ artefact/file/download.php?file=963595&view=185127">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasha-codes&
 label=Profile%20views&color=0e75b6&style=flat" alt="lazzzare" /> </p>
 
-- 🌱 I’m currently learning: **Full-stack Development**
+- 🌱 I’m currently learning: **Redux, Sql**
 
-- 📫 How to reach me: **chxartishvililazare@gmail.com**
+- 📫 How to reach me: **lashagiorgi420@gmail.com**
 
-- ⚡ Fun fact: **The first programmer was the daughter of a mad poet**
+- ⚡ Fun fact: **Ur brain eat's itself**
 
 ###
 
