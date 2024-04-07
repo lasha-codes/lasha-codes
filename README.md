@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">🛠️Languages and Tools:</h2>
+<h1 align="center">🛠️Languages and Tools:</h1>
 
 ###
 
