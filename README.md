@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
 </div>
 
 ###
