@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
   <img width="12" height="1" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+ <img width="12" height=""1 />
+ <img src='https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge' height="40" alt="redux logo" />
   <img width="12" height="1" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
   <img width="12" height="1" />
