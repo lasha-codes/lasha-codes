@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" />
+<img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ttbTVmZWN3ZTgyeHJscTM1bTg5eXFpNjBmZGw0Zndib2RlcThnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp" />
 
 <h2 align="center">Hi 👋! My name is Lasha and I'm a dedicated full-stack developer from Georgia.</h2>
 
